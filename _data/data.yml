@@ -8,258 +8,184 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Daniel Freiling
+    tagline: CTO & Tech Lead
+    avatar: profile_2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: daniel@freiling.dk
+    phone: +45 42 41 03 64
+    timezone: Denmark/Copenhagen
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: freiling.dk #do not add http://
+    linkedin: daniel-freiling-85774036
+    xing: 
+    github: ddfreiling
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Danish
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Professional+
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: German
+          level: Conversational
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Fitness
           link:
 
-        - item: Snowboarding
+        - item: Badminton
           link:
 
-        - item: Cooking
+        - item: Running
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      An IT genius, who has become a bit of a jack-of-all-trades. I have a passion for software development and a knack for learning new technologies. I have a strong background in software development, but have also worked with IT infrastructure and management.
+      I have a strong focus on accessibility and user experience, and have contributed to several open-source projects in this area. Lately I have been deep-diving into DevOps and DevEx, making lives easier for developers and users alike. I am a strong team player and have a gift for leading and inspiring others around me.
+      Few CTOs have the same hands-on experience as I do (as my GitHub profile reveals), and I am not afraid to give a helping hand where needed. I am a strong believer in the power of open-source and sharing of knowledge, and I am always looking for ways to improve myself and the world around me.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
+      - degree: Cand. Software Development (unfinished)
+        university: IT University of Copenhagen
+        time: 2011 - 2013
+        details: |
+          Specializations: Programming Languages, App development.
+      - degree: Bsc. in Computer Science
         university: University of London
         time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Specializations: Software Security, Databases. Finished with avg. grade 12.
+      - degree: Datamatiker, Software Development
+        university: Roskilde Handelsskole
+        time: 2007 - 2009
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Hired as helping teacher for student with special needs. Finished with avg. grade 12.
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
+      - role: CTO & Tech Lead
+        time: 2019 - Present
+        company: Nota, Copenhagen
+        details: |
+          CTO & Tech Lead for Nota. 
+            - Responsible for the overall technical strategy of Nota and co-leading of the IT department.
+            - DevOps and infrastructure management via Docker, Helm and self-hosted Kubernetes.
+            - Various development tasks in ASP.NET, Flutter and Angular.
+      - role: IT Lead (interim)
+        time: 2018 - 2019
+        company: Nota, Copenhagen
+        details: |
+          Interim IT Lead for Nota for a year, when the previous IT Lead left. Still functioning as senior developer during this time.
+            - Hiring and onboarding of new developers.
+            - Management of IT department; resources and budget.
+            - Communication and coordination with management & director.
+      - role: IT Developer
         time: 2015 - Present
-        company: Startup Hubs, San Francisco
+        company: Nota, Copenhagen
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
+          Full-time IT developer for Nota, a Danish library for people with print disabilities.
+            - Backend development on central RESTful API in C# & ASP.NET.
+            - App development for cross-platform mobile apps in NativeScript & Flutter.
+            - Various frontend development tasks in Angular and HTML5/Bootstrap.
+      - role: Junior Software Engineer
         time: 2014 - 2015
-        company: Google, London
+        company: Tabulex, Roskilde
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Full-time app developer for iOS & Android, as well as some backend PHP development.
+            - App development in Objective-C for iOS devices.
+            - App development in Java for Android devices.
+            - Development of RESTful adapter for existing PHP-based system.
+      - role: Software Developer & Infrastructure Support
+        time: 2010 - 2011
+        company: Nordvand, Lyngby
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Part time IT development and maintenance of IT infrastructure.
+            - Phone billing management system in Java for embedded cellular devices all over the country.
+            - Various Excel macros for data processing.
+            - Support for the company's IT infrastructure, servers and workstations.
 
 certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are some of the projects I've worked on, which I am especially proud of. You can find more on my [GitHub](https://github.com/ddfreiling) page.
     assignments:
-      - title: Velocity
+      - title: Merkur & Mars
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "An adaptable distribution architecture using the OPDSv2 standard for digital libraries, which has been adopted by other countries."
 
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Generally I've contributed with accessibility improvements and plugins for OSS cross-platform frameworks. Here are some of those
     contributions:
-      - title: Tempo
+      - title: NativeScript
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Submitted improvements and developed plugins for NativeScript framework."
 
-      - title: Atom
+      - title: Flutter
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Submitted improvements to accessibility in Google's Flutter framework."
 
-      - title: Delta
+      - title: Daisy Projects (Ace & Thorium Reader)
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Daisy projects to provide better reading systems for people with print disabilities."
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: C# & ASP.NET
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Flutter
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: SQL & Databases
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Docker & Kubernetes
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: Angular
+        level: 90%
+
+      - name: HTML5 & CSS
+        level: 90%
+
+      - name: Swift & Objective-C
+        level: 80%
+
+      - name: Kotlin
         level: 60%
+
+      - name: PHP
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
