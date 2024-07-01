@@ -1,9 +1,6 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-title: CV | Daniel Freiling
-url: 'https://daniel.freiling.dk'
-
 sidebar:
     position: right # position of the sidebar : left or right
     about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -20,7 +17,7 @@ sidebar:
     timezone: 
     location: Copenhagen, Denmark
     citizenship:
-    website: freiling.dk #do not add http://
+    website: 
     linkedin: ddfreiling
     xing: 
     github: ddfreiling
