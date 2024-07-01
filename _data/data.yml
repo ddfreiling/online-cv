@@ -1,6 +1,9 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
+site:
+    title: CV | Daniel Freiling
+    url: 'https://daniel.freiling.dk'
 
 sidebar:
     position: right # position of the sidebar : left or right
