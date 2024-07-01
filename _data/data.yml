@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Daniel Freiling
     tagline: CTO & Tech Lead
-    avatar: profile_2.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_8.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: daniel@freiling.dk
@@ -127,15 +127,14 @@ certifications:
 projects:
     title: Projects
     intro: >
-      These are some of the projects I've worked on, which I am especially proud of. You can find more on my [GitHub](https://github.com/ddfreiling) page.
+      These are some of the projects I've worked on, which I am especially proud of. You can find more on my GitHub profile.
     assignments:
       - title: Merkur & Mars
         link: "#hook"
         tagline: "An adaptable distribution architecture using the OPDSv2 standard for digital libraries, which has been adopted by other countries."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: LYT4
+        link: "#hook"
+        tagline: "A native-feel cross-platform audiobook app with flawless accessibility and a well designed systems architecture, making it a breeze to maintain"
 
 oss:
     title: OSS Contributions
