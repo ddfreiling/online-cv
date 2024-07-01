@@ -1,9 +1,8 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-site:
-    title: CV | Daniel Freiling
-    url: 'https://daniel.freiling.dk'
+title: CV | Daniel Freiling
+url: 'https://daniel.freiling.dk'
 
 sidebar:
     position: right # position of the sidebar : left or right
@@ -99,7 +98,7 @@ experiences:
         time: 2018 - 2019
         company: Nota, Copenhagen
         details: |
-          Interim IT Lead for Nota for a year, when the previous IT Lead left. Still functioning as senior developer during this time.
+          Interim IT Lead for Nota for a year, when the previous IT Lead left. Also functioning as senior developer during this time.
             - Hiring and onboarding of new developers.
             - Management of IT department; resources and budget.
             - Communication and coordination with management & director.
@@ -146,13 +145,13 @@ oss:
     intro: >
       Generally I've contributed with accessibility improvements and plugins for OSS cross-platform frameworks. Here are some of those
     contributions:
-      - title: NativeScript
-        link: "#"
-        tagline: "Submitted improvements and developed plugins for NativeScript framework."
-
       - title: Flutter
         link: "#"
         tagline: "Submitted improvements to accessibility in Google's Flutter framework."
+
+      - title: NativeScript
+        link: "#"
+        tagline: "Submitted improvements and developed plugins for NativeScript framework."
 
       - title: Daisy Projects (Ace & Thorium Reader)
         link: "#"
@@ -176,20 +175,26 @@ skills:
       - name: Docker & Kubernetes
         level: 90%
 
+      - name: CI/CD Pipelines
+        level: 90%
+
       - name: Angular
         level: 90%
 
-      - name: HTML5 & CSS
+      - name: HTML5, JS & CSS
         level: 90%
+
+      - name: Linux & Bash
+        level: 80%
 
       - name: Swift & Objective-C
         level: 80%
 
-      - name: Kotlin
-        level: 60%
-
       - name: PHP
         level: 70%
+
+      - name: Kotlin
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
