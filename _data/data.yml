@@ -48,10 +48,10 @@ sidebar:
         - item: Fitness
           link:
 
-        - item: Badminton
+        - item: Running
           link:
 
-        - item: Running
+        - item: Gaming
           link:
 
 career-profile:
@@ -71,7 +71,7 @@ education:
         details: |
           Specializations: Programming Languages, App development.
       - degree: Bsc. in Computer Science
-        university: University of London
+        university: Erhvervsakademi KNord
         time: 2011 - 2012
         details: |
           Specializations: Software Security, Databases. Finished with avg. grade 12.
@@ -90,11 +90,11 @@ experiences:
         details: |
           CTO & Tech Lead for Nota. 
             - Responsible for the overall technical strategy of Nota and co-leading of the IT department.
-            - DevOps and infrastructure management via Docker, Helm and self-hosted Kubernetes.
+            - DevOps and infrastructure management via GitOps and self-hosted Kubernetes.
             - IT architecture documentation and design.
-            - Various development tasks in ASP.NET, Flutter and Angular.
+            - Senior dev tasks in C# ASP.NET, Flutter, Swift, Kotlin, PHP and Angular.
 
-          Tech: `C#, ASP.NET, EF, MSSQL, Flutter, Docker, Helm, Kubernetes, Rancher`
+          Tech: `C#, ASP.NET, EF, MSSQL, Flutter, Docker, Helm, Kubernetes, Rancher, ArgoCD`
       - role: IT Lead (interim)
         time: 2018 - 2019
         company: Nota, Copenhagen
@@ -139,10 +139,10 @@ projects:
       These are some of the projects I've worked on, which I am especially proud of. You can find more on my GitHub profile.
     assignments:
       - title: Merkur & Mars
-        link: "#hook"
+        link: "#internal"
         tagline: "An adaptable distribution architecture using the OPDSv2 standard for digital libraries, which has been adopted by other countries."
       - title: LYT4
-        link: "#hook"
+        link: "https://apps.apple.com/dk/app/nota-bibliotek-2-0/id1539941161"
         tagline: "A native-feel cross-platform audiobook app with flawless accessibility and a well designed systems architecture, making it a breeze to maintain"
 
 oss:
@@ -174,13 +174,13 @@ skills:
       - name: Flutter
         level: 95%
 
-      - name: SQL & Databases
+      - name: Docker & Kubernetes
         level: 95%
 
-      - name: Docker & Kubernetes
+      - name: CI/CD Pipelines
         level: 90%
 
-      - name: CI/CD Pipelines
+      - name: SQL & Databases
         level: 90%
 
       - name: Angular
@@ -192,14 +192,14 @@ skills:
       - name: Linux & Bash
         level: 80%
 
-      - name: Swift & Objective-C
+      - name: Swift/Objective-C
         level: 80%
 
       - name: PHP
-        level: 70%
+        level: 80%
 
-      - name: Kotlin
-        level: 60%
+      - name: Kotlin/Java
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
