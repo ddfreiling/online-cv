@@ -202,4 +202,4 @@ skills:
         level: 75%
 
 footer: >
-    Tak fordi du læste mit CV <i class="fas fa-heart">. Tjek min GitHub profil, for at se min seneste aktivitet.
+    Tak fordi du læste mit CV <i class="fas fa-heart"></i>. Tjek min <a href="https://github.com/ddfreiling">GitHub profil</a>, for at se min seneste aktivitet.
