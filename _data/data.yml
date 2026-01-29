@@ -4,7 +4,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: true # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Daniel Freiling
@@ -51,6 +51,9 @@ sidebar:
         - item: Running
           link:
 
+        - item: Climbing
+          link:
+
         - item: Gaming
           link:
 
@@ -88,7 +91,7 @@ experiences:
         time: 2025 - Present
         company: Royal Danish Library, Copenhagen
         details: |
-          Tech Lead in the IT department of The Royal Danish Library (Nota merger).
+          Tech Lead in the IT department of The Royal Danish Library (Nota merged into).
             - Responsible for the overall IT development strategy in The Royal Danish Library.
             - DevOps and infra management via GitOps and self-hosted Kubernetes /w ClusterAPI & ArgoCD.
             - IT architecture principles, documentation and design.
@@ -153,12 +156,12 @@ projects:
       - title: Flutter Readium
         link: https://github.com/notalib/flutter_readium
         tagline: "Open-source cross-platform e-book player for both e-books, audiobooks and guided navigation publications"
-      - title: Merkur & Mars
-        link: "#internal"
-        tagline: "An adaptable distribution architecture using the OPDSv2 standard for digital libraries, which has been adopted by other countries."
       - title: LYT4
         link: "https://apps.apple.com/dk/app/nota-bibliotek-2-0/id1539941161"
         tagline: "A native-feel cross-platform audiobook app with flawless accessibility and a well designed systems architecture, making it a breeze to maintain"
+      - title: Merkur & Mars
+        link: "#internal"
+        tagline: "An adaptable distribution architecture using the OPDS standard for digital libraries. The IT architecture I designed has been licensed and adopted by other cooperating countries."
 
 oss:
     title: OSS Contributions
@@ -193,6 +196,9 @@ skills:
         level: 95%
 
       - name: CI/CD Pipelines
+        level: 95%
+
+      - name: ClusterAPI & ArgoCD
         level: 90%
 
       - name: Swift/Objective-C
