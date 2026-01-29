@@ -88,11 +88,13 @@ experiences:
         time: 2025 - Present
         company: Royal Danish Library, Copenhagen
         details: |
-          Tech Lead in the IT department of The Royal Danish Library.
+          Tech Lead in the IT department of The Royal Danish Library (Nota merger).
             - Responsible for the overall IT development strategy in The Royal Danish Library.
             - DevOps and infra management via GitOps and self-hosted Kubernetes /w ClusterAPI & ArgoCD.
             - IT architecture principles, documentation and design.
             - Principal-level developer tasks in C# ASP.NET, Flutter, Swift, Kotlin, PHP and Angular.
+
+          Tech: `C#, ASP.NET, EF, Flutter, Docker, Kubernetes, Rancher, ArgoCD, KeyCloak`
 
       - role: CTO & Tech Lead
         time: 2019 - 2025
