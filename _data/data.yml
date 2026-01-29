@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: daniel@freiling.dk
     phone: +45 42 41 03 64
-    timezone: 
+    timezone:
     location: Copenhagen, Denmark
     citizenship:
-    website: 
+    website:
     linkedin: ddfreiling
-    xing: 
+    xing:
     github: ddfreiling
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -57,10 +57,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      An IT genius, who has become a bit of a jack-of-all-trades, but also master of some!  
-      I have a passion for best-practice software development and a knack for picking up new technologies. I have experience with all parts of software development, but have also worked extensively with IT infrastructure and management.  
-      With a strong focus on accessibility and user experience, I always try to deliver the best possible solutions and value for the end-users.  
-      Lately I'm deep-diving into DevOps and DevEx, trying to make lives easier for developers and users alike. I'm a strong team player and have a gift for leading and inspiring others around me. Few CTOs have my hands-on experience (see GitHub profile), which gives me the ability to step in and help wherever it's needed the most, be it systems design, CI/CD pipelines or hands-on programming.  
+      I'm a jack-of-all-trades IT genius, but also a master of some!
+      I've worked in and have insight into almost all fields of Software Engineering and have a passion for best-practice software development and a knack for picking up new technologies. I have experience with all parts of software development, but have also worked extensively with IT infrastructure and DevOps.
+      With a strong focus on accessibility and user experience, I always try to deliver the best possible solutions and value for the end-users.
+      Lately I've deep-dived into DevOps and DevEx, trying to make lives easier for developers and users alike. I'm a strong team player and have a gift for leading and inspiring others around me. Few Tech Leads have my hands-on experience (see GitHub profile), which gives me the ability to step in and help wherever it's needed the most, be it systems design, CI/CD pipelines or hands-on programming.
       I'm always looking for ways to improve myself and the world around me.
 education:
     title: Education
@@ -84,11 +84,21 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Tech Lead & IT Architect
+        time: 2025 - Present
+        company: Royal Danish Library, Copenhagen
+        details: |
+          Tech Lead in the IT department of The Royal Danish Library.
+            - Responsible for the overall IT development strategy in The Royal Danish Library.
+            - DevOps and infra management via GitOps and self-hosted Kubernetes /w ClusterAPI & ArgoCD.
+            - IT architecture principles, documentation and design.
+            - Principal-level developer tasks in C# ASP.NET, Flutter, Swift, Kotlin, PHP and Angular.
+
       - role: CTO & Tech Lead
-        time: 2019 - Present
+        time: 2019 - 2025
         company: Nota, Copenhagen
         details: |
-          CTO & Tech Lead for Nota. 
+          CTO & Tech Lead for Nota.
             - Responsible for the overall technical strategy of Nota and co-leading of the IT department.
             - DevOps and infrastructure management via GitOps and self-hosted Kubernetes.
             - IT architecture documentation and design.
@@ -110,7 +120,7 @@ experiences:
           Full-time IT developer for Nota, a Danish library for people with print disabilities.
             - Backend development on central RESTful API in C# & ASP.NET.
             - App development for cross-platform mobile apps in NativeScript & Flutter.
-            - Various frontend development tasks in Angular and HTML5/Bootstrap.    
+            - Various frontend development tasks in Angular and HTML5/Bootstrap.
 
           Tech: `C#, ASP.NET, EF, MSSQL, NativeScript, Angular, Docker`
       - role: Junior Software Engineer
@@ -120,7 +130,7 @@ experiences:
           Full-time app developer for iOS & Android, as well as some backend PHP development.
             - App development in Objective-C for iOS devices.
             - App development in Java for Android devices.
-            - Development of RESTful adapter for existing PHP-based system.  
+            - Development of RESTful adapter for existing PHP-based system.
 
           Tech: `PHP, Obj-C, Java, SQL`
       - role: Software Developer & Infrastructure Support
@@ -138,6 +148,9 @@ projects:
     intro: >
       These are some of the projects I've worked on, which I am especially proud of. You can find more on my GitHub profile.
     assignments:
+      - title: Flutter Readium
+        link: https://github.com/notalib/flutter_readium
+        tagline: "Open-source cross-platform e-book player for both e-books, audiobooks and guided navigation publications"
       - title: Merkur & Mars
         link: "#internal"
         tagline: "An adaptable distribution architecture using the OPDSv2 standard for digital libraries, which has been adopted by other countries."
@@ -180,26 +193,26 @@ skills:
       - name: CI/CD Pipelines
         level: 90%
 
-      - name: SQL & Databases
-        level: 90%
-
-      - name: Angular
+      - name: Swift/Objective-C
         level: 90%
 
       - name: HTML5, JS & CSS
         level: 90%
 
+      - name: SQL & Databases
+        level: 90%
+
+      - name: Angular
+        level: 80%
+
       - name: Linux & Bash
         level: 80%
 
-      - name: Swift/Objective-C
+      - name: Kotlin/Java
         level: 80%
 
       - name: PHP
-        level: 80%
-
-      - name: Kotlin/Java
-        level: 75%
+        level: 70%
 
 footer: >
     Tak fordi du læste mit CV <i class="fas fa-heart"></i>. Tjek min <a href="https://github.com/ddfreiling">GitHub profil</a>, for at se min seneste aktivitet.
